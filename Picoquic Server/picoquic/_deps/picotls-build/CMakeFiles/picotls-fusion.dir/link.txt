@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpicotls-fusion.a CMakeFiles/picotls-fusion.dir/lib/fusion.c.o
+/usr/bin/ranlib libpicotls-fusion.a

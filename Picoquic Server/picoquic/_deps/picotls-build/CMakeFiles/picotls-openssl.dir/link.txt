@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpicotls-openssl.a CMakeFiles/picotls-openssl.dir/lib/openssl.c.o
+/usr/bin/ranlib libpicotls-openssl.a

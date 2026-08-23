@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/thread_test.dir/thread_tester/thread_test.c.o -o thread_test  libpicoquic-log.a libpicoquic-core.a /usr/lib/x86_64-linux-gnu/libssl.so _deps/picotls-build/libpicotls-openssl.a /usr/lib/x86_64-linux-gnu/libcrypto.so -ldl _deps/picotls-build/libpicotls-fusion.a _deps/picotls-build/libpicotls-minicrypto.a _deps/picotls-build/libpicotls-core.a 

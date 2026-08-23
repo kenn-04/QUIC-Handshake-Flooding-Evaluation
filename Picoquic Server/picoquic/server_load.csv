@@ -1,0 +1,272 @@
+Linux 6.8.0-85-generic (keni-virtual-machine) 	2025-10-03 	_x86_64_	(4 CPU)
+
+11:41:09 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:10 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:09 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:10 AM  1000      3633      0.00      0.00    8948    6528   0.02  picoquicdemo
+
+11:41:10 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:11 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:10 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:11 AM  1000      3633      0.00      0.00    8948    6528   0.02  picoquicdemo
+
+11:41:11 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:12 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:11 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:12 AM  1000      3633      0.00      0.00    8948    6528   0.02  picoquicdemo
+
+11:41:12 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:13 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:12 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:13 AM  1000      3633      0.00      0.00    8948    6528   0.02  picoquicdemo
+
+11:41:13 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:14 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:13 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:14 AM  1000      3633      0.00      0.00    8948    6528   0.02  picoquicdemo
+
+11:41:14 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:15 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:14 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:15 AM  1000      3633      0.00      0.00    8948    6528   0.02  picoquicdemo
+
+11:41:15 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:16 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:15 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:16 AM  1000      3633      0.00      0.00    8948    6528   0.02  picoquicdemo
+
+11:41:16 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:17 AM  1000      3633    4.00    3.00    0.00    0.00    7.00     3  picoquicdemo
+
+11:41:16 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:17 AM  1000      3633    104.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:17 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:18 AM  1000      3633    5.00    4.00    0.00    0.00    9.00     3  picoquicdemo
+
+11:41:17 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:18 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:18 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:19 AM  1000      3633    1.00    1.00    0.00    0.00    2.00     1  picoquicdemo
+
+11:41:18 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:19 AM  1000      3633      1.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:19 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:20 AM  1000      3633    5.00    1.00    0.00    0.00    6.00     1  picoquicdemo
+
+11:41:19 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:20 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:20 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:21 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     1  picoquicdemo
+
+11:41:20 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:21 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:21 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:22 AM  1000      3633    4.00    3.00    0.00    0.00    7.00     1  picoquicdemo
+
+11:41:21 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:22 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:22 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:23 AM  1000      3633    5.00    3.00    0.00    0.00    8.00     3  picoquicdemo
+
+11:41:22 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:23 AM  1000      3633      5.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:23 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:24 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:23 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:24 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:24 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:25 AM  1000      3633    4.00    4.00    0.00    1.00    8.00     3  picoquicdemo
+
+11:41:24 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:25 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:25 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:26 AM  1000      3633    4.00    4.00    0.00    0.00    8.00     3  picoquicdemo
+
+11:41:25 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:26 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:26 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:27 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:26 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:27 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:27 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:28 AM  1000      3633    5.00    4.00    0.00    0.00    9.00     3  picoquicdemo
+
+11:41:27 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:28 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:28 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:29 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:28 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:29 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:29 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:30 AM  1000      3633    3.00    3.00    0.00    0.00    6.00     3  picoquicdemo
+
+11:41:29 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:30 AM  1000      3633      0.00      0.00    9212    7424   0.02  picoquicdemo
+
+11:41:30 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:31 AM  1000      3633    4.00    3.00    0.00    0.00    7.00     3  picoquicdemo
+
+11:41:30 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:31 AM  1000      3633     16.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:31 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:32 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:31 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:32 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:32 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:33 AM  1000      3633    6.00    2.00    0.00    0.00    8.00     1  picoquicdemo
+
+11:41:32 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:33 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:33 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:34 AM  1000      3633    4.00    2.00    0.00    0.00    6.00     1  picoquicdemo
+
+11:41:33 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:34 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:34 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:35 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     1  picoquicdemo
+
+11:41:34 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:35 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:35 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:36 AM  1000      3633    5.00    2.00    0.00    1.00    7.00     2  picoquicdemo
+
+11:41:35 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:36 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:36 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:37 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     1  picoquicdemo
+
+11:41:36 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:37 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:37 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:38 AM  1000      3633    5.00    4.00    0.00    0.00    9.00     3  picoquicdemo
+
+11:41:37 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:38 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:38 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:39 AM  1000      3633    5.00    4.00    0.00    0.00    9.00     3  picoquicdemo
+
+11:41:38 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:39 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:39 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:40 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:39 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:40 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:40 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:41 AM  1000      3633    4.00    3.00    0.00    0.00    7.00     3  picoquicdemo
+
+11:41:40 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:41 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:41 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:42 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:41 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:42 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:42 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:43 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:42 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:43 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:43 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:44 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:43 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:44 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:44 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:45 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:44 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:45 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:45 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:46 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:45 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:46 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:46 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:47 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:46 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:47 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:47 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:48 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:47 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:48 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:48 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:49 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:48 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:49 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:49 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:50 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:49 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:50 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:50 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:51 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:50 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:51 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:51 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:52 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:51 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:52 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+11:41:52 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+11:41:53 AM  1000      3633    0.00    0.00    0.00    0.00    0.00     3  picoquicdemo
+
+11:41:52 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:41:53 AM  1000      3633      0.00      0.00    9344    7424   0.02  picoquicdemo
+
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000      3633    1.66    1.14    0.00    0.05    2.79     -  picoquicdemo
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:     1000      3633      2.86      0.00    9239    7281   0.02  picoquicdemo
